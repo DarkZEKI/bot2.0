@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["5521970019765@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '5521970019765' 
 // mude para seu numero
 
 const gimagenotregister = true
@@ -31,30 +31,30 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = 'api key do imgbb, crie sua conta e pegue a key'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = 'DarkZE-BOT/n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '$' 
 // prefixo
 
-const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+const blockedmsg = '*😜 Tu número está bloqueado, es decir, no te escucho 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contacte con el propietario del bot para saber porque🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*Adios zorra por andar spameando*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
+const adminmsgtype = '*Tu eres admin asi que...*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
+const banmsgporn = 'Hmmm pornito con antiporn activado, ya sabe qué...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
+const adminmsgporn = '*Tu eres admin entonses no te voy a sacar por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
 const banmsglink = 'Corra Membro comum, O ban está próximo...'
